@@ -86,7 +86,7 @@ NUMPY- make light weight arrays and math functions
 Syntax: matplotlib.pyplot.hist(size)
 Return:This returns the list of individual patches used to create the histogram.
 
-![image](https://user-images.githubusercontent.com/83426515/165886489-5a52fdd9-441e-4617-ba11-8cb6294830f1.png)
+![image](https://user-images.githubusercontent.com/83426515/165886489-5a52fdd9-441e-4617-ba11-8cb6294830f1.png | width=50% | height = 50%)
 
 2.BOX PLOT
 Syntax: seaborn.boxplot(x=None, y=None, data=None)
@@ -151,8 +151,8 @@ Prediction  BY – RandomForest()
 
 
 # REFERENCE
-KAGGLE-Pima Indians Diabetes Database-Predict the onset of diabetes based on diagnostic measures.
-scikit-learn: machine learning in Python — scikit-learn 0.24.2 documentation
+KAGGLE-Pima Indians Diabetes Database-Predict the onset of diabetes based on diagnostic measures.<br>
+scikit-learn: machine learning in Python — scikit-learn 0.24.2 documentation.<br>
 Dataset: National Institute of Diabetes and Digestive and Kidney Diseases. 
 
 
