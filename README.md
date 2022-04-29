@@ -86,7 +86,7 @@ NUMPY- make light weight arrays and math functions
 Syntax: matplotlib.pyplot.hist(size)
 Return:This returns the list of individual patches used to create the histogram.
 
-![image](https://user-images.githubusercontent.com/83426515/165886489-5a52fdd9-441e-4617-ba11-8cb6294830f1.png | width=50 | height = 50)
+![image](https://user-images.githubusercontent.com/83426515/165886489-5a52fdd9-441e-4617-ba11-8cb6294830f1.png | width=50 )
 
 2.BOX PLOT
 Syntax: seaborn.boxplot(x=None, y=None, data=None)
