@@ -31,11 +31,11 @@ Gestational diabetes: This type occurs in women during pregnancy when the body c
 
 # OBJECTIVE
  The objective of this project is to predict and match with Machine Learning model in comparison to real time data based on certain diagnostic parameters included in the dataset.
- Pima Indians with type 2 diabetes are metabolically characterized by
-	Obesity.
-	Insulin resistance.
-	Insulin secretory dysfunction. 
-	Increased rates of endogenous glucose production. 
+ Pima Indians with type 2 diabetes are metabolically characterized by, <br>
+	Obesity.<br>
+	Insulin resistance.<br>
+	Insulin secretory dysfunction. <br>
+	Increased rates of endogenous glucose production. <br>
 which are the clinical characteristics that define this disease across most populations . 
 Using mathematical models to analyze how Pregnant women are prone to be Diabetic.
 Generate Clear understanding of how the disease is vulnerable among population.
