@@ -30,7 +30,7 @@ Gestational diabetes: This type occurs in women during pregnancy when the body c
 
 
 # OBJECTIVE
- The objective of this project is to diagnostically predict whether ML is able to  predict and match with real time accuracy based on certain diagnostic measurements included in the dataset.
+ The objective of this project is to predict and match with Machine Learning model in comparison to real time data based on certain diagnostic parameters included in the dataset.
  Pima Indians with type 2 diabetes are metabolically characterized by
 	Obesity.
 	Insulin resistance.
