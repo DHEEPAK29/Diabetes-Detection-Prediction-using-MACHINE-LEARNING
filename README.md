@@ -86,7 +86,8 @@ NUMPY- make light weight arrays and math functions
 Syntax: matplotlib.pyplot.hist(size)
 Return:This returns the list of individual patches used to create the histogram.
 
-![image](https://user-images.githubusercontent.com/83426515/165886489-5a52fdd9-441e-4617-ba11-8cb6294830f1.png )
+![image]( )
+<img src="https://user-images.githubusercontent.com/83426515/165886489-5a52fdd9-441e-4617-ba11-8cb6294830f1.png" width="50%" height="50%">
 
 2.BOX PLOT
 Syntax: seaborn.boxplot(x=None, y=None, data=None)
@@ -95,7 +96,8 @@ Type used:  Draw a single horizontal box plot using only one axis.
 A box plot helps to maintain the distribution of quantitative data in such a way that it facilitates the comparisons between variables or across levels of a categorical variable.
  The main body of the box plot showing the quartiles and the median’s confidence intervals if enabled.
 
-![image](https://user-images.githubusercontent.com/83426515/165886540-e5f1fd8d-d007-4d81-a508-80dbc9d05adb.png)
+![image]()
+<img src="https://user-images.githubusercontent.com/83426515/165886540-e5f1fd8d-d007-4d81-a508-80dbc9d05adb.png" width="50%" height="50%">
 
 3.VALUES
 Syntax: DataFrame.values
@@ -105,8 +107,8 @@ Pandas DataFrame is a two-dimensional size-mutable, potentially heterogeneous ta
 Arithmetic operations align on both row and column labels.
  It can be thought of as a dict-like container for Series objects. This is the primary data structure of the Pandas.
 
-![image](https://user-images.githubusercontent.com/83426515/165886569-efda1da3-8f0c-4190-a245-98b9e38702f3.png)
-
+![image]()
+<img src="https://user-images.githubusercontent.com/83426515/165886569-efda1da3-8f0c-4190-a245-98b9e38702f3.png" width="50%" height="50%">
 4.sklearn.model_selection import train_test_split
 Syntax: sklearn.model_selection.train_test_split(*arrays, test_size=None, train_size=None, random_state=None, shuffle=True, stratify=None).
 
@@ -142,13 +144,15 @@ Micro average (averaging the total true positives, false negatives and false pos
 CASE A::
 Prediction BY - DecisionTreeClassifier()
 
-![image](https://user-images.githubusercontent.com/83426515/165886740-73b3c98c-2904-4bbf-8e42-3ee00c2e558c.png)
-![image](https://user-images.githubusercontent.com/83426515/165886744-751f01ba-e8c0-4c6b-9065-8e8e5f44ee1f.png)
+![image]()
+<img src="https://user-images.githubusercontent.com/83426515/165886740-73b3c98c-2904-4bbf-8e42-3ee00c2e558c.png" width="50%" height="50%">
+<img src="https://user-images.githubusercontent.com/83426515/165886744-751f01ba-e8c0-4c6b-9065-8e8e5f44ee1f.png" width="50%" height="50%">
+![image]()
 
 CASE B::
 Prediction  BY – RandomForest()
-![image](https://user-images.githubusercontent.com/83426515/165886776-ad6ed707-48fa-4543-82e3-1fb3177758c6.png)
-
+![image]()
+<img src="https://user-images.githubusercontent.com/83426515/165886776-ad6ed707-48fa-4543-82e3-1fb3177758c6.png" width="50%" height="50%">
 
 # REFERENCE
 KAGGLE-Pima Indians Diabetes Database-Predict the onset of diabetes based on diagnostic measures.<br>
