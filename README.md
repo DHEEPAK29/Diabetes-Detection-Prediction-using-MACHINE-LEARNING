@@ -145,7 +145,7 @@ Prediction BY - DecisionTreeClassifier()
 <img src="https://user-images.githubusercontent.com/83426515/165886744-751f01ba-e8c0-4c6b-9065-8e8e5f44ee1f.png" width="50%" height="50%">
 
 CASE B::
-Prediction  BY – RandomForest()
+Prediction  BY – RandomForest()<br>
 <img src="https://user-images.githubusercontent.com/83426515/165886776-ad6ed707-48fa-4543-82e3-1fb3177758c6.png" width="50%" height="50%">
 
 # REFERENCE
