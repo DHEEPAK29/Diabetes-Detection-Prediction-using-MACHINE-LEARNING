@@ -2,11 +2,9 @@
  
  DIABETES DETECTION USING MACHINE LEARNING
 
-Description: Main objective of this project is to estimate the possibilities of people  becoming a diabetic.
-
-Technologies used: Machine Learning
-
-Software and application used :   Jupyter Notebook,  Python 3.9.6.
+Designed ML framework for data processing and modeling to predict the susceptibility of a person to certain diseases.This supports users to add data in prescribed format with hassle free prediction results on their screen.
+Technologies Used:Keras, Scikit Learn, Seaborn, matplotlib, numpy, and pandas.
+Application used :   Jupyter Notebook
 
 ML Libraries used: 	Pandas , NumPy  , Matplotlib ,Seaborn.
 
